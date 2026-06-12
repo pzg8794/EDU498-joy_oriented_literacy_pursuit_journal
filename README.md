@@ -42,4 +42,4 @@ Privacy-safe photos from the Squishy Circuits sessions are in the [`images/`](im
 ## Journal
 
 This evidence supports the formal reflective journal:  
-[Joy-Oriented Literacy Pursuit Journal](https://github.com/pzg8794/EDU498-joy_oriented_literacy_pursuit_journal)
+[Joy-Oriented Literacy Pursuit Journal](https://github.com/pzg8794/EDU498-joy_oriented_literacy_pursuit_journal/blob/main/EDU498_joy_oriented_literacy_pursuit_journal.pdf)
